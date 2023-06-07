@@ -1,0 +1,12 @@
+2a60927148abd1d33b818b535e306557
+::res://::1685576057
+Ball.tscn::PackedScene::-1::1685576046::0::1::::<><>::res://assets/ballBlue_10.png
+default_env.tres::Environment::-1::1685576046::0::1::::<><>::
+icon.png::CompressedTexture2D::8207570417095390539::1685575999::1685576058::1::::<><>::
+Main.gd::GDScript::-1::1685576046::0::1::::<>Node<>::
+Main.tscn::PackedScene::-1::1685576046::0::1::::<><>::res://Main.gd<>res://Ball.tscn<>res://assets/Bouncy Platform Long.png
+README.md::TextFile::-1::1685575999::0::1::::<><>::
+::res://assets/::1685575999
+ballBlue_10.png::CompressedTexture2D::2572486320499572171::1685575999::1685576058::1::::<><>::
+Bouncy Platform Long.png::CompressedTexture2D::5934832250811120950::1685575999::1685576058::1::::<><>::
+Bouncy Platform Medium.png::CompressedTexture2D::8120678391752147642::1685575999::1685576058::1::::<><>::
